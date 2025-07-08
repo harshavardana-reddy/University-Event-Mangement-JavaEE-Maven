@@ -38,14 +38,14 @@ The platform enables:
 - MySQL (Database)
 - JavaMail API (for notifications)
 - **Red Hat JBoss EAP Server** (Application Server)
-
+<!-- 
 ---
 
 ## 📹 Project Demo
 
 🎥 **Watch the Execution Video:**  
 [▶️ Click Here to Watch](https://your-video-link.com)  
-*(Replace with actual YouTube demo link)*
+*(Replace with actual YouTube demo link)* -->
 
 
 ---
